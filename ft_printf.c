@@ -55,7 +55,7 @@ int	ft_printf(const char *str, ...)
 		str++;
 	}
 	va_end(variable);
-	return (count);
+	return (count);   
 }
 /*
 int	main(void)
