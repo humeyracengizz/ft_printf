@@ -1,2 +1,2 @@
-# ft_printf42
+# ft_printf
 The ft_printf function that emulates the real printf function
